@@ -1,0 +1,1 @@
+/home/chenhang/source/M1882_QOF8_base/development/ide/clion/frameworks/native/CMakeLists.txt
